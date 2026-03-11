@@ -9,14 +9,14 @@
 ---
 ##  Technologies Used:
 - HTML – Structure of the web page.
-CSS – Styling and layout design.
-JavaScript – Logic for generating random quotes.
+- CSS – Styling and layout design.
+- JavaScript – Logic for generating random quotes.
 ---
 ##  How to Run Locally:
 - 1.Clone the repository: git clone <your-repo-link>
-2.Navigate to the project folder: cd RandomQuoteGenerator
-3.Open index.html in your browser.
-No server required – works directly in any modern web browser.
+- 2.Navigate to the project folder: cd RandomQuoteGenerator
+- 3.Open index.html in your browser.
+- No server required – works directly in any modern web browser.
 ---
 ## Demo Screenshot:
 <img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/ae3b2736-f5b8-49c3-988e-40c4198684bb" />
