@@ -1,19 +1,19 @@
 ## Random-Quote-Generator
-A simple and interactive web application that displays a random motivational quote every time you click a button. Built using HTML, CSS, and JavaScript.
+ - A simple and interactive web application that displays a random motivational quote every time you click a button. Built using HTML, CSS, and JavaScript.
 ---
 ##  Features:
-Generates a random quote from a predefined list.
-Responsive and visually appealing layout.
-Interactive button with hover effects.
-Easy to customize – you can add more quotes or change styles.
+- Generates a random quote from a predefined list.
+- Responsive and visually appealing layout.
+- Interactive button with hover effects.
+- Easy to customize – you can add more quotes or change styles.
 ---
 ##  Technologies Used:
-HTML – Structure of the web page.
+- HTML – Structure of the web page.
 CSS – Styling and layout design.
 JavaScript – Logic for generating random quotes.
 ---
 ##  How to Run Locally:
-1.Clone the repository: git clone <your-repo-link>
+- 1.Clone the repository: git clone <your-repo-link>
 2.Navigate to the project folder: cd RandomQuoteGenerator
 3.Open index.html in your browser.
 No server required – works directly in any modern web browser.
